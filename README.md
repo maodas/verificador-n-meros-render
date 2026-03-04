@@ -75,7 +75,6 @@ Sistema web para envío y verificación de mensajes SMS, diseñado específicame
 
 ### Usuario Super Admin por Defecto
 - **Email:** admin@oim.org.gt
-- **Contraseña:** admin123
 - **Rol:** Super Administrador
 
 ### Agregar Nuevos Usuarios:
@@ -137,4 +136,5 @@ Sistema web para envío y verificación de mensajes SMS, diseñado específicame
 ## 📞 Soporte
 
 Para problemas técnicos, contactar al administrador del sistema de OIM Guatemala.
+
 
