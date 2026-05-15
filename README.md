@@ -74,7 +74,7 @@ Sistema web para envío y verificación de mensajes SMS, diseñado específicame
 - **Usuario:** Solo puede usar la aplicación principal
 
 ### Usuario Super Admin por Defecto
-- **Email:** admin@oim.org.gt
+- **Email:** admin@oim.org
 - **Rol:** Super Administrador
 
 ### Agregar Nuevos Usuarios:
@@ -117,7 +117,7 @@ Sistema web para envío y verificación de mensajes SMS, diseñado específicame
 - Revisa los logs en Netlify Functions
 
 ### Si el login falla:
-- Usuario por defecto: admin@oim.org.gt / admin123
+- Usuario por defecto: admin@oim.org
 - Verifica que el usuario exista en localStorage
 - Revisa la consola del navegador para errores
 
